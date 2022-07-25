@@ -1,7 +1,7 @@
 Diego I. Severini
-====================
+==
 Java Full Stack / TL / Microservices Arch. / ENTR 
----------------------
+--
 ###### Mar del Plata, Buenos Aires, Argentina - Timezone (GMT-3)
 ---------------------
 I am a systems engineer with **10+ years of IT experience in cloud services**. 
