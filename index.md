@@ -1,6 +1,6 @@
 Diego I. Severini
 ====================
-Java Full Stack / TL / Microservices Arch. / ENTR- 
+Java Full Stack / TL / Microservices Arch. / ENTR 
 ---------------------
 ###### Mar del Plata, Buenos Aires, Argentina - Timezone (GMT-3)
 ---------------------
