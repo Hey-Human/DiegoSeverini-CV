@@ -16,66 +16,52 @@ I am a systems engineer with **10+ years of IT experience in cloud services**.
 * 🌎🌏🌍 Better world
 
 ## **Work experience**
+---
 ## DEPT® | Contractor for Globalization Partners
-### Sr. Java Developer, NodeJs and Team Leader
-##### December 2020 - Present 
+### Sr. Java Developer, NodeJs and Team Leader | _December 2020 - Present_
+* I lead a team of +6 team members and was in charge of the technical aspects of the service and it's context.
+* As the platform grown, I was involved in designing the architecture of the echosystem of the service.
+**Stack:** Java 8, Spring Boot, NodeJS, Express, MySQL, TypeORM, AWS CLI, AWS (codepipeline, S3, EC2, ECS, DynamoDB, SQS, SNS), New Relic.
+
+### Sr. Java Developer | _Jan 2020 - Aug 2021_
+I improved the security of a monolithic application based on Veracode reports indicating security vulnerabilities. 
+I researched to determine the right control authorization on all application endpoints (RBAC). 
+Besides role control, I also had to investigate other security issues like XSS and others. 
+I also integrated a third party SSO.
 ---
-Due to the growth of the platform, it was adopting a microservices architecture, and having had a good performance and the client's trust, the challenge of leading a team was proposed to me, in order to replace the legacy logic of the monolithic application, in a certain area of ​​the business.
-The challenge was great at the beginning since my experience was always in Java and this new microservice is made in Node Js, but with the passage of time I managed to overcome the obstacles and I have been a fundamental part of the team, coordinating, defining and deciding some key points of its architecture, being the connection point with product people, stakeholders, DevOps and other services with which we interact.
-The service was launched into production with great success and we are currently in the second phase of 3 to launch a new experience for end-users. My participation has grown both in the team and in the client and I still see many opportunities to continue growing.
-
-### Sr. Java Developer
-##### Jan 2020 - Aug 2021
-In my initial assignment, I was tasked with improving security in a monolithic application based on Veracode reports indicating security vulnerabilities. My work on this involved a lot of research to determine and control authorization on all application endpoints (RBAC). Besides role control, I also had to investigate other security issues like XSS and others. Completed this work of approximately 8 months I helped in another team in the integration with Zoho services being responsible for integrating SSO with this service.
-
 ## iManage | Overactive Contractor
-### Sr. Java Developer
-##### Jan 2018 - Jan 2020
+### Sr. Java Developer | _Jan 2018 - Jan 2020_
+- Working on the implementation of different back-end servers for an important project of document and email management application. 
+**Stack:** Play framework and Java 11, MyBatis, Docker, MariaDB, Elasticsearch, RxJava, Maven, Jackson.
 ---
-Working on the implementation of different back-end servers for an important project of document and email management application. 
-The servers are built with play framework and java 11, MyBatis, Docker, MariaDB, Elasticsearch, RxJava, Maven, Jackson.
-
 ## Hey Human ™
-### Founder
-##### Sep 2029 - Present
+### Founder | _Sep 2029 - Present_
+- I built from the scratch an original idea for an educational application. 
+**Stack:** Quasar, VueJS, Firebase.
+**Website:** [My Kids](https://hey-human.github.io/tres-caras/)
 ---
-I built from the scratch an educational application. It was built with Quasar, VueJs and Firebase.
-Website: [My Kids](https://hey-human.github.io/tres-caras/)
-
 ## Expedia, Inc. | Globant Contractor
-### Ssr. and Ssr Advance Java Developer
-##### Feb 2016 - Jan 2018
+### Ssr. and Ssr Advance Java Developer | _Feb 2016 - Jan 2018_
+- Back-end developer.
+- Developing and maintaining microservices using Spring boot and Java 8. 
+- Scripting in Python to crawl web pages.
 ---
-Back-end developer, developing and maintaining microservices using Spring boot and Java 8. 
-I also did some scripting in Python to crawl web pages.
-
 ## U.T.N.
-### Professor of programming I
-##### Jan 2017 to Jun 2017
+### Professor of programming I | _Jan 2017 - Jun 2017_
+- Taught the basics of C programming in the degree "Higher degree in computer systems"
 ---
-I taught the basics of C programming in the degree "Higher degree in computer systems"
-
 ## Orbitz Worldwide | Globant Contractor
-### Ssr. Java Developer
-##### Feb 2015 - Feb 2016
----
+### Ssr. Java Developer | _Feb 2015 - Feb 2016_
 As a "full-stack" developer I participate in the development of a CMS (Content Management System). On the server-side using Grails and on the client-side AngularJs. I also was Scrum Master.
-
+---
 ## Globallogic
-### Junior. Java Developer
-##### May 2013 - Jun 2015
+### Junior. Java Developer | _May 2013 - Jun 2015_
+- Developing and maintaining business application programs, which support the client. 
+- Design and develop new program code. 
+- Write and maintaining programming documentation. 
+- Scripting queries to support the consults of the client. 
 ---
-Implementation of a trading system for front-office and middle-office users of emerging markets. 
-Development of a trading application allowing to handle multiple investment products through a single platform, which promotes productivity and reduces risks.
-Developing and maintaining business application programs, which support the client. 
-Design and develop new program code. 
-Write and maintaining programming documentation. 
-Communication with external Web Services. 
-Scripting queries to support the consults of the client. 
-Proactivity in agile methodology (Kanban) 
-
 ## Barcelona/04
-### Customer support
-##### Aug 2011 - Nov 2011
+### Customer support | _Aug 2011 - Nov 2011_
+- How technician in the Technical Support area I attended the service provided users from around the world via telephone or mail.
 ---
-How technician in the Technical Support area I attended the service provided users from around the world via telephone or mail.
