@@ -28,7 +28,6 @@ The service was launched into production with great success and we are currently
 **Jan 2020 - Aug 2021**
 In my initial assignment, I was tasked with improving security in a monolithic application based on Veracode reports indicating security vulnerabilities. My work on this involved a lot of research to determine and control authorization on all application endpoints (RBAC). Besides role control, I also had to investigate other security issues like XSS and others. Completed this work of approximately 8 months I helped in another team in the integration with Zoho services being responsible for integrating SSO with this service.
 
-
 ### iManage | Overactive Contractor
 #### Sr. Java Developer
 **Jan 2018 - Jan 2020**
