@@ -43,7 +43,7 @@ I also integrated a third party SSO.
 ---
 
 ## Hey Human ™
-### Founder | _Sep 2029 - Present_
+### Founder | _Sep 2019 - Present_
 
 - I built from the scratch an original idea for an educational application. 
 
