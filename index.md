@@ -15,18 +15,21 @@ I am a systems engineer with **10+ years of IT experience in cloud services**.
 * 🧘 Full consciousness 
 * 🌎🌏🌍 Better world
 
-## **Experience**
+## **Work experience**
 ## DEPT® | Contractor for Globalization Partners
 ### Sr. Java Developer, NodeJs and Team Leader
 ##### December 2020 - Present 
 ---
-Due to the growth of the platform, it was adopting a microservices architecture, and having had a good performance and the client's trust, the challenge of leading a team was proposed to me, in order to replace the legacy logic of the monolithic application, in a certain area of ​​the business.
-The challenge was great at the beginning since my experience was always in Java and this new microservice is made in Node Js, but with the passage of time I managed to overcome the obstacles and I have been a fundamental part of the team, coordinating, defining and deciding some key points of its architecture, being the connection point with product people, stakeholders, DevOps and other services with which we interact.
-The service was launched into production with great success and we are currently in the second phase of 3 to launch a new experience for end-users. My participation has grown both in the team and in the client and I still see many opportunities to continue growing.
+* I lead a team of +6 team members and was in charge of the technical aspects of the service and it's context.
+* As the platform grown, I was involved in designing the architecture of the echosystem of the service.
+**Stack:** Java 8, Spring Boot, NodeJS, Express, MySQL, TypeORM, AWS CLI, AWS (codepipeline, S3, EC2, ECS, DynamoDB, SQS, SNS), New Relic.
 
 ### Sr. Java Developer
 ##### Jan 2020 - Aug 2021
-In my initial assignment, I was tasked with improving security in a monolithic application based on Veracode reports indicating security vulnerabilities. My work on this involved a lot of research to determine and control authorization on all application endpoints (RBAC). Besides role control, I also had to investigate other security issues like XSS and others. Completed this work of approximately 8 months I helped in another team in the integration with Zoho services being responsible for integrating SSO with this service.
+I improved the security of a monolithic application based on Veracode reports indicating security vulnerabilities. 
+I researched to determine the right control authorization on all application endpoints (RBAC). 
+Besides role control, I also had to investigate other security issues like XSS and others. 
+I also integrated a third party SSO.
 
 ## iManage | Overactive Contractor
 ### Sr. Java Developer
