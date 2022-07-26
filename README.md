@@ -21,6 +21,7 @@ I am a systems engineer with **10+ years of IT experience in cloud services**.
 ### Sr. Java Developer, NodeJs and Team Leader | _December 2020 - Present_
 * I lead a team of +6 team members and was in charge of the technical aspects of the service and it's context.
 * As the platform grown, I was involved in designing the architecture of the echosystem of the service.
+
 **Stack:** Java 8, Spring Boot, NodeJS, Express, MySQL, TypeORM, AWS CLI, AWS (codepipeline, S3, EC2, ECS, DynamoDB, SQS, SNS), New Relic.
 
 ### Sr. Java Developer | _Jan 2020 - Aug 2021_
