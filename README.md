@@ -25,10 +25,11 @@ I am a systems engineer with **10+ years of IT experience in cloud services**.
 **Stack:** Java 8, Spring Boot, NodeJS, Express, MySQL, TypeORM, AWS CLI, AWS (codepipeline, S3, EC2, ECS, DynamoDB, SQS, SNS), New Relic.
 
 ### Sr. Java Developer | _Jan 2020 - Aug 2021_
-I improved the security of a monolithic application based on Veracode reports indicating security vulnerabilities. 
-I researched to determine the right control authorization on all application endpoints (RBAC). 
-Besides role control, I also had to investigate other security issues like XSS and others. 
-I also integrated a third party SSO.
+
+- I improved the security of a monolithic application based on Veracode reports indicating security vulnerabilities. 
+- I researched to determine the right control authorization on all application endpoints (RBAC). 
+- Besides role control, I also had to investigate other security issues like XSS and others. 
+- I also integrated a third party SSO.
 
 **Stack:** Java 8, Spring Boot, MySQL, Veracode, Hibernate, JUnit.
 
@@ -60,6 +61,8 @@ I also integrated a third party SSO.
 - Developing and maintaining microservices using Spring boot and Java 8. 
 - Scripting in Python to crawl web pages.
 
+**Stack:** Java, Spring Boot, microservices, Graphana.
+
 ---
 
 ## U.T.N.
@@ -75,7 +78,7 @@ I also integrated a third party SSO.
 - As Fullstack developer I participate in the development of a CMS (Content Management System). 
 - I also was Scrum Master.
 
-**Stack:** Grails, MySQL, MondoDB, AngularJS, Firebase.
+**Stack:** Java, Spring Boot, Groovy, Grails, MySQL, MongoDB, AngularJS.
 
 ---
 
