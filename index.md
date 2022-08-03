@@ -1,3 +1,4 @@
+<https://github.com/Hey-Human/DiegoSeverini-CV/blob/gh-pages/cv.pdf>
 # **Diego Ignacio Severini**
 ## **Java Full Stack / Team Leader / Microservices Arch. / Entrepreneur**
 ---
