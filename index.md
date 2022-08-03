@@ -1,4 +1,5 @@
-DOWNLOAD MY CV IN PDF: https://github.com//Hey-Human/DiegoSeverini-CV/raw/gh-pages/DIEGO-SEVERINI-CV.pdf
+[DOWNLOAD MY CV IN PDF](https://github.com//Hey-Human/DiegoSeverini-CV/raw/gh-pages/DIEGO-SEVERINI-CV.pdf)
+
 # **Diego Ignacio Severini**
 
 ## **Java Full Stack / Team Leader / Microservices Arch. / Entrepreneur**
